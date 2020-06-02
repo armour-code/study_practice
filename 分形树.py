@@ -1,6 +1,8 @@
 # author: fzb
 # time: 2020/3/30
 # function:  分形树
+# method: 直接运行
+# completion：100%
 from turtle import *
 Draw = Turtle()
 MyDraw = Draw.getscreen()
